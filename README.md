@@ -1,10 +1,13 @@
 # bigdatapaper
+
 I have papers, can you translate it?
+
 这里目前有一百篇大数据的文献，欢迎各位前来翻译成中文，造福于更多致力于数据科学的同学。
 
-#个人网站 
+#协作
+QQ群：167729516
 
-[paymoon.com](paymoon.com)
+网站：[paymoon.com](http://www.paymoon.com)
 
 已经翻译了一部分，但是个人能力有限，如果你也有兴趣，如果你有时间，请来添一把柴吧！
 
